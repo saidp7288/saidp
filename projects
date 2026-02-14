@@ -1,0 +1,8 @@
+Sure. The links are as follows: 1. https://github.com/DevCloudNinjas/DevOps-Projects 
+2. https://github.com/bregman-arie/devops-resources
+3. https://github.com/techiescamp/devops-projects 
+2. github.com/gmarcha/landing-deploy 
+2. "k-tsiakas/terraform-ansible-kube-aws" – It sets up Kubernetes clusters in AWS using Terraform and Ansible.
+Link: github.com/k-tsiakas/terraform-ansible-kube-aws 
+3. "dansimone/k8s-terraform-ansible" – This one provides an installer for Kubernetes on Oracle Cloud Infrastructure with Terraform and Ansible.
+Link: github. com/dansimone/k8s-terraform-ansible These should help you explore real-world deployment examples.
